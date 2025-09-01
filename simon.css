@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+.bx {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 10%;
+    margin: 10px;
+}
+.line-one {
+    margin: 10px;
+}
+
+.line-two {
+    margin: 10px;
+}
+
+.red {
+    background-color: #f99b45;
+}
+.green {
+    background-color: #b95980;
+}
+.yellow {
+    background-color: #819ff9;
+}
+.purpule {
+    background-color: #63aac0;
+}
+.flash {
+    background-color: white;
+}
